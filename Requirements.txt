@@ -1,9 +1,9 @@
-The entire project has been implemented in Python 2.7.12
+The entire project has been implemented in Python 3.5.2
 The following Python packages have been used in the project:-
 
-- Numpy (1.14.0)
-- Tensorflow (1.7.0)
-- Matplotlib (1.5.1)
-- cPickle (1.71)
-- scikit-learn (0.19.1)
-- OpenCV (3.3.1)
+- Numpy
+- Tensorflow
+- Matplotlib
+- cPickle 
+- scikit-learn
+- PIL
